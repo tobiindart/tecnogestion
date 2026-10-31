@@ -58,3 +58,19 @@ Se utilizaron herramientas de Inteligencia Artificial Generativa como apoyo para
 La asistencia se considera complementaria y no reemplaza la revisión humana. El estudiante debe verificar la precisión de los conceptos, la viabilidad de las propuestas, la correspondencia con las consignas de la asignatura y la autenticidad de las evidencias de trabajo. Las métricas propuestas deberán validarse mediante pruebas, y los diagramas y flujos deberán revisarse antes de su entrega.
 
 La responsabilidad final sobre el contenido, las decisiones de diseño y la documentación presentada corresponde al estudiante.
+
+## Documentación de la Entrega 4
+
+Esta entrega integra el modelado de procesos, el control de versiones, la gestión ágil del trabajo y los indicadores de control del proyecto TecnoGestión.
+
+### Actividades planificadas
+
+- Elaborar el diagrama BPMN del proceso de gestión de proyectos y clientes.
+- Definir historias de usuario y registrarlas en un tablero ágil.
+- Documentar el flujo de trabajo mediante Git y GitHub.
+- Establecer indicadores para verificar los objetivos técnicos.
+- Revisar la documentación y registrar las mejoras realizadas.
+
+### Control de versiones
+
+Los cambios de documentación se proponen mediante ramas y Pull Requests, con revisión antes de su integración en la rama principal.
