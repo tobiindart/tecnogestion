@@ -95,3 +95,9 @@ El contenido generado fue revisado y adaptado al caso de TecnoGestión. Se verif
 ### Control de versiones
 
 Los cambios de documentación se proponen mediante ramas y Pull Requests, con revisión antes de su integración en la rama principal.
+
+## Diagrama BPMN del proceso
+
+El siguiente diagrama representa el proceso de Gestión de Proyectos y Clientes de TecnoGestión, incluyendo las áreas participantes, los puntos de decisión y el tratamiento de excepciones.
+
+![Diagrama BPMN de Gestión de Proyectos y Clientes](BPMN_Gestion_Proyectos_TecnoGestion.png)
