@@ -49,7 +49,7 @@ https://github.com/tobiindart/tecnogestion
 
 ## Tablero de gestión
 
-Pendiente de creación.
+[Ver tablero de seguimiento del proyecto] (https://github.com/users/tobiindart/projects/1/views/1?layout_template=board)
 
 ## Declaración de uso de IA
 
